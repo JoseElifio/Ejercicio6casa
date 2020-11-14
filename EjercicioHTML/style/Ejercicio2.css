@@ -1,0 +1,28 @@
+table{
+    border: 5px double blue;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th {
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+    padding-inline: 50px;
+}
+
+td {
+    color: green;
+    text-align: right;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+#span1 {
+    text-align: left;
+    
+}
